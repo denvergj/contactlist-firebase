@@ -1,0 +1,24 @@
+{
+  "name": "react-contactlist-firebase",
+  "version": "1.0.0",
+  "description": "A contact list app using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denver Jackson",
+  "license": "ISC",
+  "devDependencies": {
+    "browsify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "firebase": "^3.0.3",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
